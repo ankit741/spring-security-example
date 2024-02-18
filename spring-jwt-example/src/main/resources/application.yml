@@ -1,0 +1,9 @@
+spring:
+  security:
+    user:
+      name: admin
+      password: admin123
+
+jwt:
+  secret: "1245852efwfwefwefwefwe"
+  message: "hello"
